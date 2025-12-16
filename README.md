@@ -72,8 +72,3 @@ Toda la configuración, scripts y documentación técnica están centralizados e
 
 
 
----
-
-## Licencia
-
-Este proyecto está bajo la
