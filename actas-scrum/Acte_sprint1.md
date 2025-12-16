@@ -1,7 +1,7 @@
 ## Sprint 1 
 Data:16/12/2025
 
-Despuésanalizar nuestro proyecto, decidimos incluir estos trareas en nuestro Sprint 1 para que sirvan como base.
+Después analizar nuestro proyecto, decidimos incluir estos trareas en nuestro Sprint 1 para que sirvan como base.
 Los trabajos son:
 
 Árbol de documentación Markdown:
