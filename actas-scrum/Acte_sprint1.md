@@ -1,18 +1,26 @@
-## Sprint 1 
-Data:16/12/2025
+## Sprint 1
 
+Fecha: 15/12/2025
 
-Después analizar nuestro proyecto, decidimos incluir estos trareas en nuestro Sprint 1 para que sirvan como base.
-Los trabajos son:
+El día 15/12/2025 hemos realizado la primera acta para nuestro proyecto. En esta acta participaron:
 
-Árbol de documentación Markdown:
+**Participantes:**  
+- Scrum Master: Jan  
+- Product Owner: Spandan
+- Miembro: Anmol  
 
-Crear la estructura de carpetas (por ejemplo docs/, actas/) y archivos Markdown principales
+Dentro de acte hemos decidido analizar nuestro proyecto y decidimos incluir estas tareas en nuestro Sprint 1 para que sirvan como base.  
+Los trabajos definidos son:
 
+- **Árbol de documentación Markdown:**  
+  Crear la estructura de carpetas (por ejemplo, docs/, actas/) y los archivos Markdown principales.
 
-Actas de reuniones, que incluyen realizar la revisión del sprint y ajustar nuestra prueba según corresponda
+- **Actas de reuniones:**  
+  Realizar la revisión del sprint y ajustar nuestra prueba según corresponda.
 
-Crear repositorios Git para poder subir a la nube la estructura, la documentación y el diagrama de red.
+- **Crear repositorios Git:**  
+  Subir a la nube la estructura, la documentación y el diagrama de red.
 
-Esquema de red en herramienta:
-Diseñar la red usando Packet Tracer u otra herramienta con las subredes necesarias
+- **Esquema de red en herramienta:**  
+  Diseñar la red usando Packet Tracer u otra herramienta con las subredes
+
