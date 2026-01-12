@@ -1,0 +1,1 @@
+Usamos Isard porque es una plataforma VDI libre pensada para educación, permite gestionar todas las máquinas virtuales de Extagram desde un punto central, escala fácilmente, funciona bien en PCs modestos, se accede por navegador y simplifica plantillas, snapshots y laboratorios reproducibles para todo el alumnado
