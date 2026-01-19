@@ -24,3 +24,80 @@ Los trabajos definidos son:
 - **Esquema de red en herramienta:**  
   Diseñar la red usando Packet Tracer u otra herramienta con las subredes
 
+# Acta Final del Sprint 1
+
+**Fecha:** 19/01/2026
+
+**Participantes:**
+- Scrum Master: Jan
+- Product Owner: Spandan
+- Miembro: Anmol
+
+---
+
+## Objetivo de la Reunión
+Revisión final del Sprint 1 para verificar el estado de las tareas planificadas, identificar qué se ha completado y analizar las causas de los pendientes, si los hubiera.
+
+---
+
+## Revisión de Tareas
+
+### **Finalizadas – 8 tareas**
+
+Se han completado satisfactoriamente las siguientes tareas, según consta en ProofHub:
+
+1. **Crear repositorio GitHub**  
+   - **Responsable:** SK  
+   - **Fecha de finalización:** 16/12/2025  
+   - **Estado:** COMPLETADO 
+
+2. **Esquema de red en herramienta**  
+   - **Responsable:** JM  
+   - **Fecha de finalización:** 19/01/2026  
+   - **Estado:** COMPLETADO 
+
+3. **Árbol de documentación Markdown**  
+   - **Responsable:** SK  
+   - **Fecha de finalización:** 19/01/2026  
+   - **Estado:** COMPLETADO 
+
+4. **Instalar y configurar MySQL**  
+   - **Responsable:** JM  
+   - **Fecha de finalización:** 19/01/2026  
+   - **Estado:** COMPLETADO 
+
+5. **Instalar servidor web**  
+   - **Responsable:** SA  
+   - **Fecha de finalización:** 19/01/2026  
+   - **Estado:** COMPLETADO 
+
+6. **Selección de software de virtualización**  
+   - **Responsable:** JN, SA  
+   - **Fecha de finalización:** 19/01/2026  
+   - **Estado:** COMPLETADO 
+
+7. **Provisión máquina Linux**  
+   - **Responsable:** JM  
+   - **Fecha de finalización:** 19/01/2026  
+   - **Estado:** COMPLETADO 
+
+8. **Instalar PHP/PHP-FPM**  
+   - **Responsable:** SK  
+   - **Fecha de finalización:** 19/01/2026  
+   - **Estado:** COMPLETADO 
+
+### **Pendientes de Revisión (Review) – 0 tareas**
+No hay tareas pendientes de revisión en este momento.
+
+###  **Pendientes (To Do) – 1 tarea**
+No se hay tareas pendientes 
+
+---
+
+## Conclusión del Sprint 1
+El Sprint 1 se considera **completado en su totalidad**. Todas las tareas planificadas han sido finalizadas dentro del plazo establecido y no quedan pendientes por revisar o realizar.
+
+---
+
+**Firmado digitalmente por el equipo:**  
+
