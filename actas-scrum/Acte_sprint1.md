@@ -99,5 +99,3 @@ El Sprint 1 se considera **completado en su totalidad**. Todas las tareas planif
 
 ---
 
-**Firmado digitalmente por el equipo:**  
-
