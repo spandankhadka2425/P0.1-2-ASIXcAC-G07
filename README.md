@@ -21,9 +21,6 @@ El objetivo principal consiste en desplegar una aplicación web multicapa (Extag
 ---
 
 ## Componentes y Servicios
-
-- **Backend:** API REST desarrollada en Node.js/Express (o tecnología equivalente)
-- **Frontend:** Aplicación web en React/Vue/Angular (según implementación)
 - **Base de datos:** MySQL o PostgreSQL en contenedor independiente
 - **Red interna Docker:** Comunicación segura entre servicios
 

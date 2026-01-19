@@ -89,7 +89,7 @@ Se han completado satisfactoriamente las siguientes tareas, según consta en Pro
 ### **Pendientes de Revisión (Review) – 0 tareas**
 No hay tareas pendientes de revisión en este momento.
 
-###  **Pendientes (To Do) – 1 tarea**
+###  **Pendientes (To Do) – 0 tarea**
 No se hay tareas pendientes 
 
 ---
