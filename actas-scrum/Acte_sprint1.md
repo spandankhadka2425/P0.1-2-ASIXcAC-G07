@@ -95,7 +95,7 @@ No se hay tareas pendientes
 ---
 
 ## Conclusión del Sprint 1
-El Sprint 1 se considera **completado en su totalidad**. Todas las tareas planificadas han sido finalizadas dentro del plazo establecido y no quedan pendientes por revisar o realizar.
+El Sprint 1 se considera **completado en su totalidad**. Todas las tareas planificadas han sido finalizadas dentro del plazo establecido y no quedan pendientes por revisar o realizar, En conclusión, considero que lo más positivo que hemos logrado en este sprint ha sido la buena organización del grupo. Cada integrante tenía un rol bien definido, lo que facilitó el trabajo en equipo. Jan se encargó de asignar las tareas y dar el visto bueno para finalizarlas, Spandan realizó la mayor parte de la documentación en Markdown y Singh se ocupó del diseño de la web. Además, la configuración del servidor se realizó correctamente porque dividimos las funciones entre Nginx, PHP y MySQL, asignando cada una a una persona distinta. Gracias a esta distribución clara de responsabilidades, el trabajo fue más eficiente y ordenado
 
 ---
 
