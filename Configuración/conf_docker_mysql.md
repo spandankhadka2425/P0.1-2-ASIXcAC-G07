@@ -111,7 +111,7 @@ Inicia los contenedores de MySQL y Nginx en segundo plano. El estado "Healthy" i
 
 **Comando:**
 ```bash
-sudo docker-compose exec mysql mysql -u extagram_admin -ppass123 -e "SHOW DATABASES;"
+sudo docker-compose exec mysql mysql -u extagram_admin -pass123 -e "SHOW DATABASES;"
 ```
 **Descripción:**  
 Este comando accede al contenedor de MySQL y muestra las bases de datos disponibles, verificando que `extagram_db` se ha creado correctamente.
