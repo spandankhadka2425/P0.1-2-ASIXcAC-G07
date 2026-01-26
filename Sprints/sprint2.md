@@ -1,6 +1,6 @@
 # SPRINT 2 - Arquitectura Contenida y Red
 
-**Duración:** 19/01/2026 - 27/02/2026 (14 horas)
+**Duración:** 19/01/2026 - 2/02/2026 (14 horas)
 
 **Objetivo:** Transformar la aplicación monolítica del Sprint 1 en una **arquitectura de microservicios con Docker**, implementando el diseño inicial de red.
 
