@@ -1,6 +1,6 @@
 ## Sprint 2
 
-**Fecha:** 19/01/2026
+**Fecha:** 19/01/2026 - 27/01/2026
 
 El día 19/01/2026 hemos realizado la segunda acta para nuestro proyecto. En esta acta participaron:
 
@@ -11,6 +11,23 @@ El día 19/01/2026 hemos realizado la segunda acta para nuestro proyecto. En est
 
 **Propósitos del Sprint 2:**  
 Crear todos los Dockerfiles y configuraciones NGINX/PHP-FPM para los servicios S1-S7, documentar la arquitectura distribuida y asegurar que la página web Extagram funcione completamente en contenedores Docker con proxy inverso y balanceo de carga.  
+
+## Tareas
+
+**Actualizar README.md Docker**
+Añadir sección de despliegue Docker: requisitos, comandos docker-compose, puertos expuestos, volúmenes y cómo parar/levantar servicios.
+
+**Documentar arquitectura S1-S7**
+Crear tabla Markdown con rol, puerto, rutas y dependencias de cada contenedor en arquitectura/servicios-S1-S7.md.
+
+**Configurar docker-compose.yml, red Docker y servicios S1-S7**
+Crear docker-compose.yml con red extagram-net, MySQL S7 (BBDD, usuario, tabla) y NGINX S1 proxy básico.
+
+**Implementar contenedores PHP-FPM S2-S3-S4**
+Dockerfile PHP con extensiones, adaptar código para Docker (MySQL→S7), volumen compartido imágenes S4-S5.
+
+**Configurar NGINX S5, S6 y pruebas completas**
+NGINX para imágenes (S5), estáticos (S6), probar flujo completo y balanceo S1→S2/S3.
 
 # Acta Final del Sprint 2
 
@@ -30,44 +47,36 @@ Revisión final del Sprint 2 para verificar el estado de las tareas planificadas
 
 ## Revisión de Tareas
 
-### **Finalizadas – 4 tareas**
+### **5 tareas**
 
-Se han completado satisfactoriamente las siguientes tareas, según consta en ProofHub [file:35]:
-1. **Actualizar README.md Docker**
-   - **Responsable:** Jan 
+1. **Actualizar README.md Docker**  
+   - **Responsable:** Jan  
    - **Fecha de finalización:** 27/01/2026  
    - **Estado:** COMPLETADO 
 
-2. **Implementar contenedores PHP-FPM S2-S3-S4**  
+2. **Documentar arquitectura S1-S7**  
+   - **Responsable:** Jan  
+   - **Fecha de finalización:** 27/01/2026  
+   - **Estado:** COMPLETADO 
+
+3. **Configurar docker-compose.yml, red Docker y servicios S1-S7**  
+   - **Responsable:** Spandan  
+   - **Fecha de finalización:** 27/01/2026  
+   - **Estado:** PENDIENTE 
+
+4. **Implementar contenedores PHP-FPM S2-S3-S4**  
    - **Responsable:** Anmol  
    - **Fecha de finalización:** 27/01/2026  
-   - **Estado:** COMPLETADO 
+   - **Estado:** BLOQUED 
 
-3. **Configurar docker-compose.yml y servicios S1-S7**  
-   - **Responsable:** Spandan
-   - **Fecha de finalización:** 27/01/2026  
-   - **Estado:** COMPLETADO 
-
-4. **Documentar arquitectura S1-S7**  
+5. **Configurar NGINX S5, S6 y pruebas completas**  
    - **Responsable:** Jan  
    - **Fecha de finalización:** 27/01/2026  
-   - **Estado:** COMPLETADO 
-
-5. **Configurar NGINX S5-S6**  
-   - **Responsable:** Jan  
-   - **Fecha de finalización:** 27/01/2026  
-   - **Estado:** COMPLETADO 
-
-### **Pendientes de Revisión (Review) – 0 tareas**
-No hay tareas pendientes de revisión en este momento.
-
-
-### **Pendientes (To Do) – 0 tareas**
-No hay tareas pendientes.
+   - **Estado:** PENDIENTE 
 
 ---
 
 ## Conclusión del Sprint 2
-El Sprint 2 se considera **completado satisfactoriamente**. Se han creado y configurado los servicios NGINX S5 (imágenes) y S6 (estáticos), documentada la arquitectura completa S1-S7 y realizadas pruebas de integración exitosas.
+
 
 ---
