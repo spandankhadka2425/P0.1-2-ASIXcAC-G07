@@ -1,13 +1,13 @@
 # SPRINT 2 - Arquitectura Contenida y Red
 
-**Duración:** 19/01/2026 - 2/02/2026 (14 horas)
+**Duración:** 19/01/2026 - 27/01/2026 (10 horas)
 
 **Objetivo:** Transformar la aplicación monolítica del Sprint 1 en una **arquitectura de microservicios con Docker**, implementando el diseño inicial de red.
 
 ## Entregables Principales:
 
 ### 1. Dockerización Completa
-- Crear contenedores Docker para cada servidor (S1-S6 según diagrama)
+- Crear contenedores Docker para cada servidor (S1-S7 según diagrama)
 - Configurar **red bridge** para la comunicación entre todos los contenedores
 
 ### 2. Proxy Inverso y Balanceo
