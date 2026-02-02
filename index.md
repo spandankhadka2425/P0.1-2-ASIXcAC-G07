@@ -4,6 +4,7 @@
 
 ## actas-scrum
 - [Acte_sprint1.md](./actas-scrum/Acte_sprint1.md)
+- [Acte_sprint2.md](./actas-scrum/Acte_sprint2.md)
 
 ## arquitectura
 - [Definición-del-MVP.md](./arquitectura/Definición-del-MVP.md)
