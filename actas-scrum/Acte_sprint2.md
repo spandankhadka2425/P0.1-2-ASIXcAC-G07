@@ -67,16 +67,19 @@ Revisión final del Sprint 2 para verificar el estado de las tareas planificadas
 4. **Implementar contenedores PHP-FPM S2-S3-S4**  
    - **Responsable:** Anmol  
    - **Fecha de finalización:** 27/01/2026  
-   - **Estado:** BLOQUED 
+   - **Estado:** PENDIENTE 
 
 5. **Configurar NGINX S5, S6 y pruebas completas**  
    - **Responsable:** Jan  
    - **Fecha de finalización:** 27/01/2026  
    - **Estado:** PENDIENTE 
 
+### **Pendientes de Revisión (Review) – 3 tareas**
+tenemos tres tareas pendientes de revision por no poder comprovar que funcionan
+
 ---
 
 ## Conclusión del Sprint 2
-
+En conclusión, consideramos que durante el Sprint 2 nos hemos centrado principalmente en la configuración de Docker, ya que se trata de una tecnología nueva para nosotros y ha sido necesario invertir más tiempo del previsto en su comprensión y puesta en marcha. Sin embargo, reconocemos que uno de los principales puntos a mejorar ha sido la documentación, ya que en este sprint no se ha documentado adecuadamente todo el trabajo realizado. Nos falta registrar varias configuraciones importantes, así como añadir más tareas en ProofHub y documentar los errores encontrados. Esto nos permitirá identificar con mayor claridad qué aspectos debemos mejorar en los próximos sprints. En resumen, nuestro principal objetivo de mejora es reforzar la documentación
 
 ---
