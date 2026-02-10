@@ -19,7 +19,7 @@ S6 sirve archivos estáticos (CSS, SVG) requeridos por extagram.php. Nginx liger
 
 **Código:**
 
-![Dockerfile S6](ruta/a/screenshot_dockerfile_s6.png)
+![Dockerfile S6](../imagen/Dockerfile-s6.png)
 
 **Explicación:**
 - `FROM nginx:alpine`: Nginx mínimo (5MB RAM)
@@ -36,12 +36,5 @@ S6 sirve archivos estáticos (CSS, SVG) requeridos por extagram.php. Nginx liger
 
 **Código:**
 
-![nginx.conf S6](ruta/a/screenshot_nginx_s6.png)
+![nginx.conf S6](../imagen/nginx-conf-s6.png)
 
-**Explicación:**
-```nginx
-server {
-  listen 80;
-  root /var/www/html;
-  location / { }
-}
