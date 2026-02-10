@@ -19,14 +19,10 @@ Añadir autenticación y un sistema de logs a la arquitectura de microservicios.
    - Implementar un servicio para recolectar logs de todos los contenedores  
    - Configurar S1-S7 para enviar sus logs al sistema central
 
-4. **Certificados HTTPS**  
-   - Configurar HTTPS en S1 (Proxy) con certificados TLS
-
 ### Entregables Obligatorios
 
-- Código de autenticación en GitHub
+- Entregar el link del GitHub
 - Servicio de logs funcionando
-- HTTPS configurado en el proxy
 - Documentación de los nuevos componentes
 
 ---
