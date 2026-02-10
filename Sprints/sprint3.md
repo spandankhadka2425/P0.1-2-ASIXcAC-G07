@@ -7,15 +7,7 @@ Añadir autenticación y un sistema de logs a la arquitectura de microservicios.
 
 ### Entregables Principales
 
-1. **Servicio de Autenticación**  
-   - Crear S7 como servicio de autenticación independiente  
-   - Implementar JWT para generar y validar tokens de acceso
-
-2. **Seguridad en el Proxy**  
-   - Configurar S1 (Proxy) para validar tokens  
-   - Proteger rutas que requieran autenticación
-
-3. **Sistema Centralizado de Logs**  
+1. **Sistema Centralizado de Logs**  
    - Implementar un servicio para recolectar logs de todos los contenedores  
    - Configurar S1-S7 para enviar sus logs al sistema central
 
