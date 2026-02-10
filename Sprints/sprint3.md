@@ -33,7 +33,7 @@ Añadir autenticación y un sistema de logs a la arquitectura de microservicios.
 
 ### Tareas trasladadas del Sprint 2 al Sprint 3
 
-- Completar la creación de todos los Dockerfiles y las tareas pendientes del sprint 1
+- Completar la creación de todos los Dockerfiles y las tareas pendientes del sprint 2
 - Configurar NGINX/PHP-FPM para los servicios S1-S7
 - Documentar la arquitectura distribuida
 - Asegurar que la página web Extagram funcione completamente en contenedores Docker con proxy inverso y balanceo de carga
