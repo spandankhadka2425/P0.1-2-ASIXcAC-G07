@@ -10,8 +10,6 @@ S2 y S3 son contenedores PHP-FPM idénticos que forman el núcleo de Extagram. R
 - **Red:** extanet
 - **Dependencias:** S7 (MySQL)
 
-## Flujo de petición
-
 ---
 
 ## Archivos

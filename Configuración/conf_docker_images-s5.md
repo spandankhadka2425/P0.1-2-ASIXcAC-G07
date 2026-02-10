@@ -10,8 +10,6 @@ S5 sirve exclusivamente archivos de imagen estáticos (fotos subidas por usuario
 - **Red:** extanet
 - **Proxy desde:** S1 (rutas /uploads/ y /avatars/)
 
-## Flujo de petición
-
 ---
 
 ## Archivos

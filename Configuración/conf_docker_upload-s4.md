@@ -10,8 +10,6 @@ S4 es el servicio especializado exclusivamente en procesar subidas de contenido 
 - **Red:** extanet
 - **Dependencias:** S7 (MySQL)
 
-## Flujo de petición
-
 ---
 
 ## Archivos
