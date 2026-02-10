@@ -6,6 +6,6 @@ A continuación se muestra el diagrama de la arquitectura inicial de la red para
 
 # Diagrama sprint2
 
-Este diagrama muestra que todos los servidores están dockerizados y incluyen un proxy inverso (NGINX).
+Este diagrama muestra que todos los servidores están dockerizados y incluyen un proxy inverso (NGINX).Las fotos y los archivos PHP subidos se guardan en la carpeta `uplode`.
 
-![Diagrama de la red](../imagen/Diagrama_sp2.png)
+![Diagrama de la red](../imagen/doker_.png)
