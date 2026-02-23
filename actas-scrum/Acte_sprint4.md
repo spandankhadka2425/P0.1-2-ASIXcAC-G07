@@ -2,7 +2,7 @@
 
 **Fecha:** 17/02/2026 - 24/02/2026
 
-El día **23/02/2026** hemos realizado el **Sprint Planning para Sprint 4**. En esta reunión participaron:
+El día **17//2026** hemos realizado el **Sprint Planning para Sprint 4**. En esta reunión participaron:
 
 **Participantes:**
 - Scrum Master: Jan
