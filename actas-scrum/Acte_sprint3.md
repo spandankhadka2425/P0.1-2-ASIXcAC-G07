@@ -5,6 +5,7 @@
 El día 19/01/2026 hemos realizado la segunda acta para nuestro proyecto. En esta acta participaron:
 
 **Participantes:**  
+- Scrum Master: Jan
 - Product Owner: Spandan
 - Miembro: Anmol  
 
