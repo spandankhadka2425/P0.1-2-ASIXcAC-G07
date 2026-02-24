@@ -27,5 +27,5 @@ S7 MySQL + Elastic
 | MySQL 3306 | 🔒 OK |
 | SQLi | 🛡️ OK |
 | Upload | 🛡️ OK |
-| MySQL privs | ⚠️ FIX |
+| MySQL privs | 🔒 OK |
 | XSS | 🛡️ OK |
