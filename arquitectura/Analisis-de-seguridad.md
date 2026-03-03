@@ -17,9 +17,6 @@ S7 MySQL + Elastic
 **UFW:** INPUT DROP + 80/22 OK ✓
 **XSS:** Solo texto seguro ✓
 
-## ⚠️ Pendientes
-1. **MySQL:** `GRANT ALL PRIVILEGES` → Revocar
-
 ## 📊 Estado
 | Riesgo | Estado |
 |--------|--------|
