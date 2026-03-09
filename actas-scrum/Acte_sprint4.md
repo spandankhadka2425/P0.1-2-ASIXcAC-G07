@@ -20,7 +20,7 @@ Implementar **securització completa** de la infraestructura Extagram:
 
 # Acta Final del Sprint 4
 
-**Fecha:** 27/01/2026
+**Fecha:** 09/03/2026
 
 **Participantes:**
 - Scrum Master: Jan
