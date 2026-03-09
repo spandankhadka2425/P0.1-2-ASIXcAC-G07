@@ -18,6 +18,16 @@ Implementar **securització completa** de la infraestructura Extagram:
 
 - [index.md](../index.md)
 
+# Acta Final del Sprint 4
+
+**Fecha:** 27/01/2026
+
+**Participantes:**
+- Scrum Master: Jan
+- Product Owner: Spandan
+- Miembro: Anmol
+
+
 # Revisión de Tareas
 
 ### **5 tareas**
