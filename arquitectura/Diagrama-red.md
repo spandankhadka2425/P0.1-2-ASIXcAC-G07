@@ -117,7 +117,6 @@ Una vez que el tráfico pasa las dos capas de seguridad, llega a los servidores 
 ---
 
 ## Conclusión
-
 La infraestructura ahora es más segura gracias al firewall y el WAF. Los atacantes deben pasar dos barreras antes de llegar a los servidores internos, y cualquier intento de ataque es bloqueado y registrado.
 
 ![Diagrama de la red](../imagen/Blank%20_diagram.png)
