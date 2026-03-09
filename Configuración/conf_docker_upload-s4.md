@@ -56,3 +56,6 @@ Idéntico a S2/S3. Función `db()` retorna conexión MySQLi a contenedor S7 con 
 **Explicación:**
 
 upload.php procesa formularios POST con foto+caption, guarda imágenes en disco con nombres únicos, inserta registro en BD MySQL y redirige usuario al feed principal
+
+
+- [index.md](../index.md)

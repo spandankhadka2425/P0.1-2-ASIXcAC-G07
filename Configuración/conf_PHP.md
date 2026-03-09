@@ -63,3 +63,6 @@ Se comprueba que la versión instalada de PHP es la 8.1, adecuada para el proyec
 ![php_install](../imagen/install.png)
 
 Por último, se muestra la instalación de los paquetes `php-fpm` y `php-mysql`, necesarios para ejecutar PHP como servicio y conectar con MySQL.
+
+
+- [index.md](../index.md)

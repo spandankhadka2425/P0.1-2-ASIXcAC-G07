@@ -17,3 +17,5 @@ Completar las tareas pendientes del sprint 2, configurar NGINX/PHP-FPM para los 
 - Configurar `docker-compose.yml`, red Docker y servicios S1-S7 (crear la red extagram-net, MySQL S7 con base de datos, usuario y tabla, y NGINX S1 como proxy inverso).
 - Configurar NGINX para S5 (imágenes) y S6 (estáticos), y realizar pruebas completas de flujo y balanceo entre S1, S2 y S3.
 
+- [index.md](../index.md)
+

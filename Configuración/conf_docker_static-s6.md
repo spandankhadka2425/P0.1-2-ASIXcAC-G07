@@ -38,3 +38,5 @@ S6 sirve archivos estáticos (CSS, SVG) requeridos por extagram.php. Nginx liger
 
 ![nginx.conf S6](../imagen/nginx-conf-s6.png)
 
+
+- [index.md](../index.md)

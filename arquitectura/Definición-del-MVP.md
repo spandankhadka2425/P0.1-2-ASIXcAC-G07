@@ -15,3 +15,5 @@
 - Usuario escribe texto + selecciona imagen → formulario POST a upload.php.
 - upload.php guarda imagen en /var/www/storage/ y post en BBDD → redirige a extagram.php.
 - extagram.php consulta BBDD → muestra todos los posts con sus imágenes.
+
+- [index.md](../index.md)

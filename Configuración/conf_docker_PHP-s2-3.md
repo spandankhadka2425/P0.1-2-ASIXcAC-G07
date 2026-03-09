@@ -65,3 +65,6 @@ S2 y S3 son contenedores PHP-FPM idénticos que forman el núcleo de Extagram. R
 **Explicación:**
 
 extagram.php es la página principal de Extagram donde los usuarios publican fotos con caption mediante formulario POST y visualizan feed de posts recientes ordenados por fecha desde MySQL.
+
+
+- [index.md](../index.md)

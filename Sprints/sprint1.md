@@ -20,3 +20,5 @@ El objetivo central del primer sprint es establecer una **base operativa y docum
 
 ## Conexión con los Sprints Posteriores
 Este MVP monolítico sentará las bases para los **Sprints 2 y 3**, donde esta arquitectura se **dividirá en microservicios** utilizando contenedores Docker (simulando los servidores S1 a S7 del diagrama) y se implementarán características avanzadas como el balanceo de carga.
+
+- [index.md](../index.md)

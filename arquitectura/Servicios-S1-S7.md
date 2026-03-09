@@ -20,3 +20,6 @@ Navegador → S1 (NGINX proxy)
 - ↳ extagram.php → S2/S3 (balanceo) → S7 (MySQL)
 - ↳ upload.php → S4 → storage → S5 (imágenes)
 - ↳ style.css, preview.svg → S6
+
+
+- [index.md](../index.md)

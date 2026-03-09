@@ -30,3 +30,6 @@ no autoritzat abans que arribi a la infraestructura d'Extagram.
 | 3306/tcp | MySQL (S7)    | Base de dades no accessible des de fora |
 | 9200/tcp | Elasticsearch | Monitoratge no accessible des de fora   |
 | 9000/tcp | PHP-FPM       | Serveis interns no exposats             |
+
+
+- [index.md](../index.md)

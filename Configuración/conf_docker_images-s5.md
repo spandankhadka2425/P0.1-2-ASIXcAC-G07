@@ -42,3 +42,5 @@ S5 sirve exclusivamente archivos de imagen estáticos (fotos subidas por usuario
 
 nginx.conf configura servidor HTTP en puerto 80 que sirve archivos estáticos desde /var/www/storage/uploads/, mapeando rutas /uploads/ y /avatars/ al mismo directorio mediante alias, con autoindex habilitado para listar contenido del volumen compartido.
 
+
+- [index.md](../index.md)

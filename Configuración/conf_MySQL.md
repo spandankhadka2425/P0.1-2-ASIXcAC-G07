@@ -41,3 +41,5 @@ Se muestran los comandos para crear los directorios de logs para MySQL, nginx y 
 En esta imagen se muestra la creación del directorio `/var/www/storage` para almacenar las imágenes subidas, junto con la asignación de permisos y propietario.
 
 ---
+
+- [index.md](../index.md)

@@ -117,3 +117,5 @@ sudo docker-compose exec mysql mysql -u extagram_admin -pass123 -e "SHOW DATABAS
 Este comando accede al contenedor de MySQL y muestra las bases de datos disponibles, verificando que `extagram_db` se ha creado correctamente.
 
 ---
+
+- [index.md](../index.md)

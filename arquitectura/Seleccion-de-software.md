@@ -55,3 +55,6 @@ Para el proyecto "Extagram", se ha seleccionado **Nginx** sobre Apache HTTP Serv
 4.  **Ofrece un entorno más eficiente y seguro:** Su bajo consumo de recursos y su modelo de configuración centralizada facilitan la gestión y el mantenimiento.
 
 Aunque **Apache es una excelente herramienta, especialmente para entornos educativos y pruebas rápidas**, su modelo tradicional es menos eficiente y menos representativo de los entornos de producción modernos. Por ello, **Nginx es la mejor opción para un aprendizaje actualizado y profesional** en el contexto de este proyecto académico.
+
+
+- [index.md](../index.md)

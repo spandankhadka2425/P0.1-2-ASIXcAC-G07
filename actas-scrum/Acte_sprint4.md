@@ -15,3 +15,5 @@ Implementar **securització completa** de la infraestructura Extagram:
 - Hardening web (WAF nginx)  
 - Hardening sistema operativo contenedores  
 - Hardening MySQL (privilegios mínimos)  
+
+- [index.md](../index.md)

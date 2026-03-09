@@ -50,3 +50,6 @@ Detecta intents d'accés a fitxers del sistema a la URI (`$request_uri`):
 | SQL Injection  | ?caption=UNION+SELECT+*+FROM+users | 403 Blocked: SQLi detected           | ✅       |
 | Path Traversal | ?caption=../../etc/passwd          | 403 Blocked: Path traversal detected | ✅       |
 | Upload normal  | .jpg / .png / .webp                | 200 OK                               | ✅       |
+
+
+- [index.md](../index.md)

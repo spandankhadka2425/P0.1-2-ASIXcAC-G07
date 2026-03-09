@@ -26,3 +26,6 @@ Añadir autenticación y un sistema de logs a la arquitectura de microservicios.
 - Documentar la arquitectura distribuida
 - Asegurar que la página web Extagram funcione completamente en contenedores Docker con proxy inverso y balanceo de carga
 
+
+- [index.md](../index.md)
+

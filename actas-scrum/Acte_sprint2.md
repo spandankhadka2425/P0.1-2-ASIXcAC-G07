@@ -87,3 +87,6 @@ En conclusión, consideramos que durante el Sprint 2 nos hemos centrado principa
 # Captura ProofHub
 
 ![Captura ProofHub Sprint 2](../imagen/Proofhub-sprint2.png)
+
+
+- [index.md](../index.md)
