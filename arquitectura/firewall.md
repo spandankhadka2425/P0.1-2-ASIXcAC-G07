@@ -9,7 +9,7 @@ no autoritzat abans que arribi a la infraestructura d'Extagram.
 
 ## Estat actual del firewall
 
-![firewall](../imagen/firewall.png)
+![firewall](../imagen/firewall-2.png)
 
 ## Anàlisi de les regles
 
@@ -19,17 +19,17 @@ no autoritzat abans que arribi a la infraestructura d'Extagram.
 | 80/tcp | HTTP (nginx S1) | Accés públic a Extagram |
 
 ### Ports restringits a admins
-| Port     | Servei | IPs permeses            |
-| -------- | ------ | ----------------------- |
-| 22/tcp   | SSH    | 192.168.70.10, .20, .22 |
-| 5601/tcp | Kibana | 192.168.70.10, .20, .22 |
+| Port     | Servei  | IPs permeses            |
+| -------- | ------- | ----------------------- |
+| 22/tcp   | SSH     | 192.168.70.10, .20, .22 |
+| 3000/tcp | Grafana | 192.168.70.10, .20, .22 |
 
 ### Ports bloquejats totalment
-| Port     | Servei        | Motiu                                   |
-| -------- | ------------- | --------------------------------------- |
-| 3306/tcp | MySQL (S7)    | Base de dades no accessible des de fora |
-| 9200/tcp | Elasticsearch | Monitoratge no accessible des de fora   |
-| 9000/tcp | PHP-FPM       | Serveis interns no exposats             |
+| Port     | Servei   | Motiu                               |
+| -------- | -------- | ----------------------------------- |
+| 3306/tcp | MySQL    | Base de dades no accessible des de fora |
+| 3100/tcp | Loki     | Monitoratge no accessible des de fora   |
+| 9000/tcp | PHP-FPM  | Serveis interns no exposats             |
+| 9200/tcp | (legacy) | Eliminat del projecte (era Elasticsearch) |
 
-
-- [index.md](../index.md)
+---
