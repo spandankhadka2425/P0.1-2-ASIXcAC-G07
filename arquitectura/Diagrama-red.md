@@ -28,7 +28,6 @@ Actúa como la primera barrera de defensa. Controla qué tráfico puede entrar a
 |--------|----------|--------|-----|
 | 22 | SSH | Permitido | Solo administradores |
 | 80 | HTTP | Permitido | Todo el mundo |
-| 443 | HTTPS | Permitido | Todo el mundo (futuro) |
 | 5601 | Kibana | Permitido | Solo administradores |
 | 9200 | Elasticsearch | Permitido | Solo comunicación interna |
 | 3306 | MySQL | Bloqueado | Nadie desde fuera |
@@ -73,7 +72,7 @@ Una vez que el tráfico pasa las dos capas de seguridad, llega a los servidores 
 
 ### Servidores Estáticos:
 - **S5** (172.19.0.5): Servidor de imágenes
-- **S6** (172.19.0.4): Servidor de archivos estáticos (CSS, SVG)
+- **S6** (172.19.0.4): Servidor de archivos estáticos (CSS)
 
 ### Base de Datos:
 - **S7** (172.19.0.6): Base de datos MySQL
