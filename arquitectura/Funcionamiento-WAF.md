@@ -45,11 +45,11 @@ Detecta intents d'accés a fitxers del sistema a la URI (`$request_uri`):
 #### Proves realitzades
 | Tipus d'atac   | Payload                            | Resposta esperada                    | Resultat |
 | -------------- | ---------------------------------- | ------------------------------------ | -------- |
-| Web normal     | GET /                              | 200 OK                               | ✅       |
-| XSS            | ?caption=<script>alert(1)</script> | 403 Blocked: XSS detected            | ✅       |
-| SQL Injection  | ?caption=UNION+SELECT+*+FROM+users | 403 Blocked: SQLi detected           | ✅       |
-| Path Traversal | ?caption=../../etc/passwd          | 403 Blocked: Path traversal detected | ✅       |
-| Upload normal  | .jpg / .png / .webp                | 200 OK                               | ✅       |
+| Web normal     | GET /                              | 200 OK                               | Bien     |
+| XSS            | ?caption=<script>alert(1)</script> | 403 Blocked: XSS detected            | Bien     |
+| SQL Injection  | ?caption=UNION+SELECT+*+FROM+users | 403 Blocked: SQLi detected           | Bien     |
+| Path Traversal | ?caption=../../etc/passwd          | 403 Blocked: Path traversal detected | Bien     |
+| Upload normal  | .jpg / .png / .webp                | 200 OK                               | Bien     |
 
 
 - [index.md](../index.md)
